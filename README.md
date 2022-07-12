@@ -1,16 +1,26 @@
-### Hi there 👋
+## About
 
-<!--
-**romainjysch/romainjysch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am from Switzerland and I work at the HEP-VD in Lausanne as a System and Network Administrator since 2018. I am also a Bachelor's degree student in Business Information Technology at the HES-SO of Neuchâtel. I am doing it next to my job since 2020.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Programming
+
+- Pascal : HES-SO
+- Java : HES-SO
+- HTML/CSS/JavaScript : HES-SO
+- Vue.js : HES-SO
+
+
+
+## Currently learning
+
+- C : OpenClassrooms
+- C++ : OpenClassrooms
+
+
+
+## Contact
+
+- romain.jysch@outlook.com
+- https://www.linkedin.com/in/romain-jysch/
