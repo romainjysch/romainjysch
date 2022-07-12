@@ -24,3 +24,9 @@ I am from Switzerland and I work at the HEP-VD in Lausanne as a System and Netwo
 
 - romain.jysch@outlook.com
 - https://www.linkedin.com/in/romain-jysch/
+
+
+
+## Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=romainjysch&show_icons=true)
