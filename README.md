@@ -15,8 +15,7 @@ I am from Switzerland and I work at the HEP-VD in Lausanne as a System and Netwo
 
 ## Currently learning
 
-- C : OpenClassrooms
-- C++ : OpenClassrooms
+- Python : Self-taught
 
 
 
