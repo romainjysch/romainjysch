@@ -15,5 +15,4 @@ I am from Switzerland and I work at the HEP-VD in Lausanne as a System and Netwo
 
 ## Contact
 
-- rom.jysch@gmail.com
 - https://www.linkedin.com/in/romain-jysch/
