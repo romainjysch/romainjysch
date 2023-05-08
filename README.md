@@ -1,6 +1,6 @@
 ## About
 
-I am from Switzerland and I work at the HEP-VD in Lausanne as a System and Network Administrator since 2018. I am also a Bachelor's degree student in Business Information Technology at the HES-SO of Neuchâtel. I am doing it next to my job since 2020.
+I am from Switzerland and I work at the HEP-VD in Lausanne as a Security Engineer since 2018. I am also a Bachelor's degree student in Business Information Technology at the HES-SO of Neuchâtel. I am doing it next to my job since 2020.
 
 
 
