@@ -1,15 +1,14 @@
 ## About
 
-I am from Switzerland and I work at the HEP-VD in Lausanne as a Security Engineer since 2018. I am also a Bachelor's degree student in Business Information Technology at the HES-SO of Neuchâtel. I am doing it next to my job since 2020.
+I am from Switzerland and I work at the HEP-VD in Lausanne as a Network Engineer since 2018. I am also a Bachelor's degree student in Business Information Technology at the HES-SO of Neuchâtel. I am doing it next to my job since 2020.
 
 
 
 ## Programming
 
-- Pascal : HES-SO
 - Java : HES-SO
-- HTML/CSS/JavaScript : HES-SO
-- Vue.js : HES-SO
+- HTML/CSS/JavaScript/Vue.js : HES-SO
+- Python : Self-taught
 
 
 
