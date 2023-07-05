@@ -6,9 +6,9 @@ I am from Switzerland and I work at the HEP-VD in Lausanne as a Network Engineer
 
 ## Programming
 
-- Java : HES-SO
-- HTML/CSS/JavaScript/Vue.js : HES-SO
-- Python : Self-taught
+- Java
+- HTML/CSS/JavaScript/Vue.js
+- Python
 
 
 
